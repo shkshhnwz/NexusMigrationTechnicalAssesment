@@ -4,12 +4,10 @@ A responsive frontend recreation of the Nexus Migration landing page built as a 
 
 ## Live Demo
 
-[Add Your Deployed Link Here]
+https://nexusmigrationclonebyshahnawazshaikh.netlify.app/
 
 ## GitHub Repository
-
-[Add Your GitHub Repository Link Here]
-
+https://github.com/shkshhnwz/NexusMigrationTechnicalAssesment
 ---
 
 ## Project Overview
@@ -58,4 +56,4 @@ src/
 Clone the repository:
 
 ```bash
-git clone [YOUR_GITHUB_REPO_LINK]
+git clone https://github.com/shkshhnwz/NexusMigrationTechnicalAssesment
